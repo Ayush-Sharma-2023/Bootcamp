@@ -11,19 +11,23 @@ h1 {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-.movie-details {
-  border: 2px;
-  margin-left: 5px;
-}
-
 .movie_list {
   display: flex;
   margin: 30px;
   padding: 10px;
 }
 
+.movie-details {
+  border: 2px;
+  margin-left: 5px;
+}
+
+
+
 img {
   margin-left: 50px;
+  width: 225px;
+  height: 318px;
 }
 
 h2 {
